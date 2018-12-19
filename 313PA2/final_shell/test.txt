@@ -1,0 +1,9 @@
+total 360
+-rw-------@ 1 Mac  staff  67126 Oct 15 08:58 313PA2 report.docx
+-rw-r--r--  1 Mac  staff  55161 Oct  8 04:04 PA2.zip
+-rw-r--r--@ 1 Mac  staff   1147 Oct 15 01:38 commands
+-rw-r--r--  1 Mac  staff     43 Oct 15 10:38 newpwd.txt
+-rwxr-xr-x  1 Mac  staff  20176 Oct 15 09:56 shell
+-rw-r--r--@ 1 Mac  staff  19752 Oct  8 03:02 shell.c
+-rw-r--r--  1 Mac  staff    124 Oct 15 10:38 test.txt
+-rw-------@ 1 Mac  staff    162 Oct 15 10:36 ~$3PA2 report.docx

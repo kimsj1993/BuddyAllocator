@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Mac/Desktop/2018F/PA1/BuddyAllocator.cpp
+BuddyAllocator.h
+/Users/Mac/Desktop/2018F/PA1/BuddyAllocator.h
+iostream
+-
+math.h
+-
+
+/Users/Mac/Desktop/2018F/PA1/BuddyAllocator.h
+iostream
+-
+vector
+-
+
